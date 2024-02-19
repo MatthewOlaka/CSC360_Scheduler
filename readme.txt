@@ -1,6 +1,6 @@
 Matthew Olaka
 V00888684
-Assignment 2 parta
+Assignment 2 part a
 
 This assignment was to implement a scheduler that uses round robin scheduling to manage threads, and will be implemented in a battlesnake program
 
